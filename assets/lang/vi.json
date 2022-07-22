@@ -1,0 +1,61 @@
+{
+    "setting":"Cài đặt",
+    "en":"Tiếng anh",
+    "vi":"Tiếng việt",
+    "language":"Ngôn ngữ",
+    "logOut":"Đăng xuất",
+    "appInfo":"Thông tin ứng dụng",
+    "themeMode":"Chế độ tối",
+    "accInfo":"Thông tin tài khoản",
+    "system":"Theo hệ thống",
+    "delete":"Xóa",
+    "cancel":"Hủy",
+    "save":"Lưu lại",
+    "options":"Tùy chọn",
+
+    
+    "room_manager":"Quản lý phòng",
+    "device":" thiết bị",
+    "edit_room":"Chỉnh sửa phòng",
+    "add_new_device":"Thêm thiết bị mới",
+    "add_new_room":"Thêm phòng mới",
+
+    "favorites":"Mục yêu thích",
+    "living_room":"Phòng khách",
+    "bedroom":"Phòng ngủ",
+    "deviceOptions":"Tùy chọn thiết bị",
+    "name_room" :"Tên gọi",
+    "delete_room":"Xóa phòng",
+    "all":"Tất cả",
+    "on":"Bật",
+    "off":"Tắt",
+    "on_all":"Bật tất cả",
+    "off_all":"Tắt tất cả",
+    "delete_device":"Xóa thiết bị",
+    "add_favorites":"Thêm vào yêu thích",
+    "delete_favorites":"Xóa yêu thích",
+
+
+    "sensor":"Cảm biến",
+    "switch":"Công tắc",
+    "switch1":"Công tắc 1",
+    "switch2":"Công tắc 2",
+    "switch3":"Công tắc 3",
+    "temperature":"Nhiệt độ",
+    "humidity":"Độ ẩm",
+
+    "if":"Nếu . . .",
+    "then":"Thì  . . .",
+    "select_conditions":"Chọn điều kiện",
+    "add_new_events":"Thêm sự kiện mới",
+    "add_events":"Thêm sự kiện",
+    "schedule":"Hẹ giờ",
+    "set_name":"Đặt tên"
+
+
+
+
+
+
+
+}

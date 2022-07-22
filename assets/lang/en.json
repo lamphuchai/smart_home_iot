@@ -1,0 +1,68 @@
+{
+    "hello": "Hello!",
+    "welcome": "Welcome to Flutter",
+    "setting":"Setting",
+    "en":"English",
+    "vi":"Vietnamese",
+    "language":"Languages",
+    "logOut":"Log Out",
+    "appInfo":"App Info",
+    "accInfo":"Account",
+    "themeMode":"Dark mode",
+    "system":"System",
+    "delete":"Delete",
+    "cancel":"Cancel",
+    "save":"Save",
+    "options":"Options",
+
+    "room_manager":"Manage rooms",
+    "device":" device",
+    "edit_room":"Edit room",
+    "add_new_device":"Add new device",
+    "add_new_room":"Add new room",
+
+    "favorites":"Favorites",
+    "living_room":"Living room",
+    "bedroom":"Bedroom",
+    "deviceOptions":"Device options",
+    "name_room":"Name",
+    "delete_room":"Delete room",
+
+    "all":"All",
+    "on":"ON",
+    "off":"OFF",
+    "on_all":"ON ALL",
+    "off_all":"OFF ALL",
+    "delete_device":"Delete device",
+    "add_favorites":"Add to favorites",
+    "delete_favorites":"Delete to favorites ",
+
+
+    "sensor":"Sensor",
+    "switch":"Switch",
+    "switch1":"Switch 1",
+    "switch2":"Switch 2",
+    "switch3":"Switch 3",
+    "temperature":"Temperature",
+    "humidity":"Humidity",
+
+    "if":"If",
+    "then":"Then",
+    "select_conditions":"Select conditions",
+    "add_new_events":"Add new events",
+    "add_events":"Add events",
+    "schedule":"Schedule",
+    "set_name":"Set name"
+
+
+
+
+
+
+
+    
+
+
+
+
+}
